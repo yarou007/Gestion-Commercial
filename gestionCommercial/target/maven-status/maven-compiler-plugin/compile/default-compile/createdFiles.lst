@@ -1,0 +1,7 @@
+com\mycompany\gestioncommercial\gestionCommercial.class
+com\mycompany\gestioncommercial\Ligne.class
+com\mycompany\gestioncommercial\Commande.class
+com\mycompany\gestioncommercial\Client.class
+com\mycompany\gestioncommercial\Personne.class
+com\mycompany\gestioncommercial\Article.class
+com\mycompany\gestioncommercial\Fournisseur.class
